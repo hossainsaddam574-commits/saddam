@@ -1,0 +1,6 @@
+{
+  "name": "live clock wallpaper",
+  "description": "Live clock and wallpaper with real-time weather and geolocation",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
